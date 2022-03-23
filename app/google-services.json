@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402204728834",
+    "project_id": "video-streaming-788b9",
+    "storage_bucket": "video-streaming-788b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402204728834:android:c1288775dffe818a38d11b",
+        "android_client_info": {
+          "package_name": "com.elsyoufy.videostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402204728834-5rr8sdn7usmnahq82cig4bphes3jmg7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZSzEHg2CwxH5ZCsXYzpuk8nwNqKRqiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402204728834-5rr8sdn7usmnahq82cig4bphes3jmg7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
